@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Golang.**
 
-- 👨‍💻 All of my projects are available at [https://arghyadeepghosh.netlify.app/](https://arghyadeepghosh.netlify.app/)
-
 - 💬 Ask me about **React, Golang and Python.**
 
 - 📫 How to reach me **imarghyadeep@gmail.com**
